@@ -16,6 +16,10 @@ with 'ArrayDataRole::Source::LinesInDATA';
 
 =head1 DESCRIPTION
 
+=head1 SEE ALSO
+
+L<WordList::ID::KBBI> - previous incantation of this module
+
 =cut
 
 __DATA__
