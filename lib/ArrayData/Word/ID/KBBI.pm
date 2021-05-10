@@ -16,6 +16,10 @@ with 'ArrayDataRole::Source::LinesInDATA';
 
 =head1 DESCRIPTION
 
+=head1 SEE ALSO
+
+L<WordList::ID::KBBI> is the previous reincarnation.
+
 =cut
 
 __DATA__
