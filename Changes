@@ -1,3 +1,11 @@
+0.003   2021-05-18  Released-By: PERLANCAR; Urgency: low
+
+        - No functional changes.
+
+        - [build] Build with updated Pod::Weaver::Plugin::ArrayData to show the
+          use of apply_roles() in Synopsis.
+
+
 0.002   2021-05-11  Released-By: PERLANCAR; Urgency: high
 
         - Merge releases 0.001 & 0.001.1.
