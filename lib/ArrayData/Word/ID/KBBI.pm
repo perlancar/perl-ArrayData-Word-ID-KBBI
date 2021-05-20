@@ -7,9 +7,9 @@ package ArrayData::Word::ID::KBBI;
 
 use Role::Tiny::With;
 with 'ArrayDataRole::Source::LinesInDATA';
-with 'ArrayDataRole::BinarySearch::LinesInHandle';                # choose has_item() that uses binary search
-with 'Role::TinyCommons::Collection::FindItem::Iterator';
-with 'Role::TinyCommons::Collection::PickItems::RandomSeekLines'; # choose pick_items() that uses binary search
+with 'ArrayDataRole::BinarySearch::LinesInHandle';                # add has_item() that uses binary search
+with 'Role::TinyCommons::Collection::FindItem::Iterator';         # add find_item() (has_item already added above)
+with 'Role::TinyCommons::Collection::PickItems::RandomSeekLines'; # add pick_items() that uses binary search
 
 # STATS
 

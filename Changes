@@ -1,3 +1,9 @@
+0.004   2021-05-20  Released-By: PERLANCAR; Urgency: medium
+
+	- [ux] Pre-mix the appropriate useful roles for the user instead of
+	  returning a 'barebones' object.
+
+
 0.003   2021-05-18  Released-By: PERLANCAR; Urgency: low
 
         - No functional changes.
